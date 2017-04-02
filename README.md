@@ -96,7 +96,7 @@ There's a lot more to be said about this, but since we won't actually write CSS 
 of this course. Feel free to read up on it though, since you will definitely be using CSS from time to time when working
 on front-end stuff!
 
-## Classes and ID's
+## Classes and IDs
 We can also add `class` and `id` attributes to our DOM nodes to make it easier to work with our styles. Let's say we had
 a style for making things red. We can't just go and create a custom `<red>` element, so we can use a class instead and
 reuse that across our code:
