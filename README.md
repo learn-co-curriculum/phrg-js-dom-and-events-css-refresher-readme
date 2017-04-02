@@ -24,7 +24,7 @@ p {
 }
 ```
 
-This tells the browser 'I want my `<p>` tags to have a font size of 16px, and I want its color to be red'. Not terribly
+This tells the browser 'I want my `<p>` tags to have a font size of 16px and color of red'. Not terribly
 hard, right?
 
 ## Scope of CSS in this course
