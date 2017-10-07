@@ -222,8 +222,7 @@ Selector specificity is very important to keep in mind when authoring your CSS. 
 
 Save your scalp. Respect the specificity.
 
-To learn more about CSS selector specificity, MDN has
-[a great article](https://developer.mozilla.org/en/docs/Web/CSS/Specificity) that goes really in-depth!
+To learn more about CSS selector specificity, MDN has [a great article](https://developer.mozilla.org/en/docs/Web/CSS/Specificity) that goes really in-depth!
 
 ## Using JS to select DOM nodes
 Let's say we want to select all HTML elements with the `red` class using JS. The CSS selector for that would be `.red`. We can select elements in the DOM using JS by using either `document.querySelector()` or `document.querySelectorAll()`. The difference between the two is that `document.querySelector()` will return the first matching element, while `document.querySelectorAll()` will return a `NodeList` (comparable to an Array) of _any_ elements that match. If you're using jQuery, you can select things using the `$()` syntax instead.
