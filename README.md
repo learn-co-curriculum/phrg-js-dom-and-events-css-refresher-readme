@@ -251,3 +251,4 @@ While we definitely skimmed over a lot of stuff, we have achieved some semblance
 ## Resources
 
 - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+<p data-visibility='hidden'>PHRG Introduction to CSS</p>
